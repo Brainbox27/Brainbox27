@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Brainbox27
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning through alx s0tfware engineering school
+- 🌱 I’m currently learning through alx software engineering school
 - 💞️ I’m looking to collaborate on INTERSHIPS
 - 📫 How to reach me (https://www.linkedin.com/in/owoeye-oluwatobi-gbolahan-17115317a)
 
